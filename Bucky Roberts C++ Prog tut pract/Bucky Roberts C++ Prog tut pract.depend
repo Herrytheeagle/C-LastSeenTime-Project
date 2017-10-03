@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1506605733 source:c:\users\herry\desktop\c++ codez\bucky roberts c++ prog tut pract\main.cpp
+	<iostream>
+	"Deconstructor.h"
+	<cstring>
+
+1506605741 c:\users\herry\desktop\c++ codez\bucky roberts c++ prog tut pract\include\deconstructor.h
+
+1506605741 source:c:\users\herry\desktop\c++ codez\bucky roberts c++ prog tut pract\src\deconstructor.cpp
+	"Deconstructor.h"
+	<iostream>
+
